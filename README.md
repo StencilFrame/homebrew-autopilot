@@ -11,5 +11,5 @@ brew install autopilot
 or just
 
 ```sh
-brew install stencilframe/autopilot
+brew install stencilframe/autopilot/autopilot
 ```
