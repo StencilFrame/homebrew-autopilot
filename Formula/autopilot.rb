@@ -1,8 +1,8 @@
 class Autopilot < Formula
   desc "AutoPilot allows you to execute runbooks with minimal setup and maximum flexibility. A system for gradual runbook automation."
   homepage "https://github.com/StencilFrame/autopilot"
-  url "https://github.com/StencilFrame/autopilot/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "10d14a0f79e87ac48ba3e1ef7055c504aa6ec27b71dbc9df648ca6e549877f13"
+  url "https://github.com/StencilFrame/autopilot/archive/refs/tags/v0.6.1.tar.gz"
+  sha256 "b93c7b3476a9952a11c001849bb8e91786a0ce7346fd38a01d4044efe6a2a1a8"
   license "Apache-2.0"
   head "https://github.com/StencilFrame/autopilot.git", branch: "main"
 
